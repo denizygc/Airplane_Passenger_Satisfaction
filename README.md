@@ -1,7 +1,7 @@
 ## Airplane Passenger Satisfaction
 The study provided answers to the following questions. The methods employed are listed in the content section. Brief explanations of the study's procedures are provided.
 
-[Data from kaggle.com](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
+The data can be found on kaggle. [Data](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction) 
 
 ## Task
 - 1) What factors are highly correlated to a satisfied (or dissatisfied) passenger? [ANS-1](#ANS-1)
